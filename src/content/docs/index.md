@@ -24,7 +24,7 @@ Huy (he/him)
 
 | File                                                                         |
 | ---------------------------------------------------------------------------- |
-| [buy-vs-rent-house](./blog/posts/buy-vs-rent-house.md)                       |
+| [buy-vs-rent-house](/blog/posts/buy-vs-rent-house.md)                       |
 | [compare-tax-investment-us-vn](compare-tax-investment-us-vn.md) |
 | [macbook-price-vn](macbook-price-vn.md)                         |
 | [blog](blog.md)                                                       |
